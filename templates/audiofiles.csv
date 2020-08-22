@@ -1,0 +1,201 @@
+file_id,genus,species,english_cname,Family
+1,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+2,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+3,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+4,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+5,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+6,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+7,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+8,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+9,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+10,Eudynamys,Escolopaceus,Asian koel,Cuculidae
+11,Milvus,Mmigrans,Black kite,Accipitridae
+12,Milvus,Mmigrans,Black kite,Accipitridae
+13,Milvus,Mmigrans,Black kite,Accipitridae
+14,Milvus,Mmigrans,Black kite,Accipitridae
+15,Milvus,Mmigrans,Black kite,Accipitridae
+16,Milvus,Mmigrans,Black kite,Accipitridae
+17,Milvus,Mmigrans,Black kite,Accipitridae
+18,Milvus,Mmigrans,Black kite,Accipitridae
+19,Milvus,Mmigrans,Black kite,Accipitridae
+20,Milvus,Mmigrans,Black kite,Accipitridae
+21,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+22,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+23,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+24,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+25,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+26,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+27,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+28,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+29,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+30,Cyanoptila,Ccyanomelana,Flycatcher,Muscicapidae
+31,Corvus,ravens,Crow,Corvidae
+32,Corvus,ravens,Crow,Corvidae
+33,Corvus,ravens,Crow,Corvidae
+34,Corvus,ravens,Crow,Corvidae
+35,Corvus,ravens,Crow,Corvidae
+36,Corvus,ravens,Crow,Corvidae
+37,Corvus,ravens,Crow,Corvidae
+38,Corvus,ravens,Crow,Corvidae
+39,Corvus,ravens,Crow,Corvidae
+40,Corvus,ravens,Crow,Corvidae
+41,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+42,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+43,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+44,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+45,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+46,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+47,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+48,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+49,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+50,Buteogallus,Graybackedhawk,Hawk,Accipitridae
+51,Ardea,Aherodias,Great blue heron,Ardeidae
+52,Ardea,Aherodias,Great blue heron,Ardeidae
+53,Ardea,Aherodias,Great blue heron,Ardeidae
+54,Ardea,Aherodias,Great blue heron,Ardeidae
+55,Ardea,Aherodias,Great blue heron,Ardeidae
+56,Ardea,Aherodias,Great blue heron,Ardeidae
+57,Ardea,Aherodias,Great blue heron,Ardeidae
+58,Ardea,Aherodias,Great blue heron,Ardeidae
+59,Ardea,Aherodias,Great blue heron,Ardeidae
+60,Ardea,Aherodias,Great blue heron,Ardeidae
+61,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+62,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+63,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+64,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+65,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+66,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+67,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+68,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+69,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+70,Baeolophus,Bridgwayi,Juniper titmouse,Paridae
+71,Alcedo,Aatthis,Kingfisher,Alcedinidae
+72,Alcedo,Aatthis,Kingfisher,Alcedinidae
+73,Alcedo,Aatthis,Kingfisher,Alcedinidae
+74,Alcedo,Aatthis,Kingfisher,Alcedinidae
+75,Alcedo,Aatthis,Kingfisher,Alcedinidae
+76,Alcedo,Aatthis,Kingfisher,Alcedinidae
+77,Alcedo,Aatthis,Kingfisher,Alcedinidae
+78,Alcedo,Aatthis,Kingfisher,Alcedinidae
+79,Alcedo,Aatthis,Kingfisher,Alcedinidae
+80,Alcedo,Aatthis,Kingfisher,Alcedinidae
+81,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+82,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+83,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+84,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+85,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+86,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+87,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+88,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+89,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+90,Strix,Salbitarsis,Rufous-banded Owl,Strigidae
+91,Pavo,Pcristatus,Indain peafowl,Phasianidae
+92,Pavo,Pcristatus,Indain peafowl,Phasianidae
+93,Pavo,Pcristatus,Indain peafowl,Phasianidae
+94,Pavo,Pcristatus,Indain peafowl,Phasianidae
+95,Pavo,Pcristatus,Indain peafowl,Phasianidae
+96,Pavo,Pcristatus,Indain peafowl,Phasianidae
+97,Pavo,Pcristatus,Indain peafowl,Phasianidae
+98,Pavo,Pcristatus,Indain peafowl,Phasianidae
+99,Pavo,Pcristatus,Indain peafowl,Phasianidae
+100,Pavo,Pcristatus,Indain peafowl,Phasianidae
+101,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+102,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+103,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+104,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+105,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+106,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+107,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+108,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+109,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+110,Phylloscopus,Pborealoides,Sakhalin Leaf Warbler,Phylloscopidae
+111,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+112,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+113,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+114,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+115,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+116,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+117,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+118,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+119,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+120,Zonotrichia,Zleucophrys,White crowned sparrow,Passerellidae
+121,Campephilus,Cpollens,Woodpecker,Picidae
+122,Campephilus,Cpollens,Woodpecker,Picidae
+123,Campephilus,Cpollens,Woodpecker,Picidae
+124,Campephilus,Cpollens,Woodpecker,Picidae
+125,Campephilus,Cpollens,Woodpecker,Picidae
+126,Campephilus,Cpollens,Woodpecker,Picidae
+127,Campephilus,Cpollens,Woodpecker,Picidae
+128,Campephilus,Cpollens,Woodpecker,Picidae
+129,Campephilus,Cpollens,Woodpecker,Picidae
+130,Campephilus,Cpollens,Woodpecker,Picidae
+131,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+132,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+133,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+134,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+135,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+136,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+137,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+138,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+139,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+140,Copsychus,Cfulicatus,Indian robin,Muscicapidae
+141,Euodice,Emalabarica,Indian silverbill,Estrildidae
+142,Euodice,Emalabarica,Indian silverbill,Estrildidae
+143,Euodice,Emalabarica,Indian silverbill,Estrildidae
+144,Euodice,Emalabarica,Indian silverbill,Estrildidae
+145,Euodice,Emalabarica,Indian silverbill,Estrildidae
+146,Euodice,Emalabarica,Indian silverbill,Estrildidae
+147,Euodice,Emalabarica,Indian silverbill,Estrildidae
+148,Euodice,Emalabarica,Indian silverbill,Estrildidae
+149,Euodice,Emalabarica,Indian silverbill,Estrildidae
+150,Euodice,Emalabarica,Indian silverbill,Estrildidae
+151,Argya,Astriata,Jungle Babbler,Leiothrichidae
+152,Argya,Astriata,Jungle Babbler,Leiothrichidae
+153,Argya,Astriata,Jungle Babbler,Leiothrichidae
+154,Argya,Astriata,Jungle Babbler,Leiothrichidae
+155,Argya,Astriata,Jungle Babbler,Leiothrichidae
+156,Argya,Astriata,Jungle Babbler,Leiothrichidae
+157,Argya,Astriata,Jungle Babbler,Leiothrichidae
+158,Argya,Astriata,Jungle Babbler,Leiothrichidae
+159,Argya,Astriata,Jungle Babbler,Leiothrichidae
+160,Argya,Astriata,Jungle Babbler,Leiothrichidae
+161,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+162,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+163,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+164,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+165,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+166,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+167,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+168,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+169,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+170,Spilopelia,Ssenegalensis,Laughing dove,Columbidae
+171,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+172,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+173,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+174,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+175,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+176,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+177,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+178,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+179,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+180,Vanellus,VanellusIndicus,Red wattled lapwing,Charadriidae
+181,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+182,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+183,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+184,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+185,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+186,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+187,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+188,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+189,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+190,Psittacula,PsittaculaKrameri,Rose ringed parakeet,Psittacidae
+191,Accipiter,AccipiterBadius,Shikra,Accipitridae
+192,Accipiter,AccipiterBadius,Shikra,Accipitridae
+193,Accipiter,AccipiterBadius,Shikra,Accipitridae
+194,Accipiter,AccipiterBadius,Shikra,Accipitridae
+195,Accipiter,AccipiterBadius,Shikra,Accipitridae
+196,Accipiter,AccipiterBadius,Shikra,Accipitridae
+197,Accipiter,AccipiterBadius,Shikra,Accipitridae
+198,Accipiter,AccipiterBadius,Shikra,Accipitridae
+199,Accipiter,AccipiterBadius,Shikra,Accipitridae
+200,Accipiter,AccipiterBadius,Shikra,Accipitridae
