@@ -1,0 +1,132 @@
+<!doctype html>
+<title>Live Audio Classification</title>
+<style>
+* {
+  box-sizing:border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Tangerine', serif;
+}
+
+.container {
+  padding: 64px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.column-66 {
+  float: left;
+  width: 66.66666%;
+  padding: 20px;
+}
+
+.column-33 {
+  float: left;
+  width: 33.33333%;
+  padding: 20px;
+}
+
+.large-font {
+  font-size: 48px;
+}
+
+.xlarge-font {
+  font-size: 64px
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
+}
+
+
+.content {
+  margin: auto;
+  background-color: #d5f4e6
+}
+.center {
+  text-align: center;
+}
+var form_data = new FormData($('#uploadfile')[0]);
+$.ajax({
+    type: 'POST',
+    url: '/upload',
+    data:form_data,
+    processData: false,
+    contentType: false
+}).done(function(data) {
+       console.log(data);
+});
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+  .column-33 {
+    width: 100%;
+    text-align: center;
+  }
+  img {
+    margin: auto;
+  }
+</style>
+<body>
+<div class="content" style="text-align:center">
+<h1 class="center">Audio Classification</h1>
+{% with messages = get_flashed_messages() %}
+	  {% if messages %}
+<!-- The App Section -->
+<div class="container">
+  <div class="row">
+    <div class="column-66">
+	<h4 style="text-align:left">The audio is of<b> {{result}}</b>.</h4>
+
+<table style="color:black; text-align:left">
+  <tr>
+    <td><b>Common Name </b></td><td>{{result}}</td></tr>
+    <tr><td><b>Species Name </b></td><td> {{species}}</td></tr>
+    <tr><td><b>Genus </b></td><td>{{genus}}</td></tr>
+    <tr><td><b>Family </b></td><td>{{family}}</td></tr>
+</table> 
+      <p style="color:black; text-align:left">{{desc}} <a href='{{link}}'>{{result}}</a></p>
+    </div>
+    <div class="column-33">
+  	<img src="{{imag}}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+{% endwith %}
+	{% if filename %}
+		<div class="center">
+    		<audio controls>
+  		<source src="{{ url_for('display_audio', filename=filename) }}" type="audio/mpeg">ho
+		</audio>
+		</div>
+	{% endif %}
+<form method="post" action="/" enctype="multipart/form-data" class="center">
+    <dl>
+	<p>
+	<input type="file" id = 'audio' name="file" autocomplete="off" required>
+	</p>
+    </dl>
+    	<p>
+	<input type="submit" value="Submit">
+	</p>
+</form>
+<h5>Created By: Mayank Kumar, Megha Sharma and Saloni Sisodiya from Engineering College, Jhalawar(Raj.)</h5>
+</div>
+</body>
