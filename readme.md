@@ -1,4 +1,8 @@
 ## README
+>This model still lack of certain coditions, like voice of any other bird or humans or anything other than specified birds voices could be misclassified.
+>The acccuracy of this model reaches approximately 55%, which is very low and is due to the dataset collected for this project are very less. 
+
+
 ## Setup:
 1. Change locations of files acordingly to the program
 2. Install the required packages.
@@ -10,9 +14,6 @@
     d. Explore the program with various birds voices.
  
  
-This model still lack of certain coditions, like voice of any other bird or humans or anything other than specified birds voices could be misclassified.
-The acccuracy of this model reaches approximately 55%, which is very low and is due to the dataset collected for this project are very less. 
-
 
 ## Group Members
 1. [Megha Sharma](https://github.com/m36h4)
