@@ -1,11 +1,21 @@
------ReadME--------
+##README
 
-Setups:
-1. change locations of files acordingly in the program
-2. DO NOT delete any file.
-For running program:
-1. open terminal
-2. Run python3 main.py
-3. open the location in chrome or firefox
-4. run accordingly
+##Setups:
+1. Change locations of files acordingly to the program
+2. Install the required packages.
+3. DO NOT delete any file.
+4. To run the program:
+    a. Open terminal
+    b. Run python3 main.py
+    c. Open the location in chrome or firefox
+    d. Explore the program with various birds voices.
+ 
+ 
+This model still lack of certain coditions, like voice of any other bird or humans or anything other than specified birds voices could be misclassified.
+The acccuracy of this model reaches approximately 55%, which is very low and is due to the dataset collected for this project are very less. 
 
+
+##Group Members:
+[Megha Sharma](https://github.com/m36h4)
+[Mayank Kumar Rathor](https://github.com/mayank1303)
+[Saloni Sisodiya]
