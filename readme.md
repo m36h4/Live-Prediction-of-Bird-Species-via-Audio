@@ -16,6 +16,6 @@ The acccuracy of this model reaches approximately 55%, which is very low and is 
 
 
 ##Group Members:
-[Megha Sharma](https://github.com/m36h4)
-[Mayank Kumar Rathor](https://github.com/mayank1303)
-[Saloni Sisodiya]
+1. [Megha Sharma](https://github.com/m36h4)
+2. [Mayank Kumar Rathor](https://github.com/mayank1303)
+3. Saloni Sisodiya
